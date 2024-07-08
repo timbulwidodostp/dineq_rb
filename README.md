@@ -1,6 +1,8 @@
 # dineq_rb
 Regression-based inequality decomposition Use dineq_rb With (In) R Software
 
+https://www.youtube.com/watch?v=yJx-jOm-Vm0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
